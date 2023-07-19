@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+    <CD>
+        <TITLE>Empire Burlesque</TITLE>
+        <ARTIST>Bob Dylan</ARTIST>
+        <PRECO> 10</PRECO>
+    </CD>
+    <CD>
+        <TITLE>Hide your heart</TITLE>
+        <ARTIST>Bonnie Tyler</ARTIST>
+        <PRECO>20 </PRECO>
+    </CD>
+    <CD>
+        <TITLE>Pavarotti Gala Concert</TITLE>
+        <ARTIST>Luciano Pavarotti</ARTIST>
+        <PRECO>40 </PRECO>
+    </CD>
+</CATALOG>
